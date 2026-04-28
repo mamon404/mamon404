@@ -13,6 +13,10 @@ A passionate Cybersecurity Student || Aspiring SOC Analyst from India 🇮🇳
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love analyzing logs more than social media 😄
 
+  <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## Skills & Tools 🛠️
 - 🔹 Networking Fundamentals (TCP/IP, DNS, HTTP/HTTPS)
 - 🔹 Linux & Windows Basics
@@ -29,6 +33,4 @@ A passionate Cybersecurity Student || Aspiring SOC Analyst from India 🇮🇳
 
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
